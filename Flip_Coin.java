@@ -1,4 +1,4 @@
-//Write a Java Program to count the Flip Coin and print percentage of Heads and Tails.
+//Write a Java Program to Flip Coin and print percentage of Heads and Tails
 
 import java.util.Scanner;
 
