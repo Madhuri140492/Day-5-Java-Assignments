@@ -1,4 +1,4 @@
-//EvenOdd
+//Java Program to Check Whether a Number is Even or Odd
 
 import java.util.Scanner;
 
