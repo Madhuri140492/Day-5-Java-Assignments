@@ -1,4 +1,4 @@
-//Write a Java Program for Power OF 2.
+//Write Java Program for Power OF 2.
 
 /*import java.util.Scanner;
 
