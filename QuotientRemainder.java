@@ -1,4 +1,4 @@
-//Write a Java Program to Compute Quotient and Remainder.
+//Write a Java Program to Compute Quotient and Remainder
 
 import java.util.Scanner;
 
