@@ -1,3 +1,5 @@
+//Java Program to Check Whether an Alphabet is Vowel or Consonant
+
 import java.util.Scanner;
 
 public class VowelConsonant {
