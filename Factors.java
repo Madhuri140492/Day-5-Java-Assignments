@@ -1,4 +1,4 @@
-//Factors
+//-> Print the prime factors of number N.
 
 import java.util.Scanner;
 
