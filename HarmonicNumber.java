@@ -1,4 +1,4 @@
-//Harmonic Number
+//Write a Java Program to Print the Harmonic Number
 
 import java.util.Scanner;
 
