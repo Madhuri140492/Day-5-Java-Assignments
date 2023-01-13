@@ -1,4 +1,4 @@
-//Write a Java Program For Leap Year
+//Write a Java Program For Leap Year or Not.
 
 import java.util.Scanner;
 
